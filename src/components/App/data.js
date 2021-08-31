@@ -18,3 +18,6 @@ export default [
 	  diet: ['plants'],
 	}
   ]
+
+
+  
